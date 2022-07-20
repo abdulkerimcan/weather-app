@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## About the project
 
-This project is a starting point for a Flutter application.
+Thanks to the OpenWeather, I can pull data from the internet using the api key.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/79968953/180098540-cc954b82-2814-4a8f-b2df-5739691e6d5b.png)
+![image](https://user-images.githubusercontent.com/79968953/180098583-85a34657-62c5-4d11-b808-02d723cdcf3f.png)
